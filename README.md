@@ -23,7 +23,7 @@
 
 在client_handler目录中绑定对应函数进行处理，协议生成和绑定通过tools目录中的脚本进行。
 
-协议的绑定参考 https://github.com/gonet2/tools/tree/master/proto_scripts
+协议的绑定参考 https://github.com/gonet2/tools/tree/master/proto_scripts                          
 
 ## 安装
-参考Dockerfile
+参考Dockerfile.
